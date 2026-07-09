@@ -1,6 +1,19 @@
-# 💫 About Me:
-## Backend engineer in the making. Python, FastAPI, Django. I ship, then I learn the rest.<br><br>CSIT student building real backend systems instead of just tutorials. Currently job hunting for junior backend / full-stack roles.<br><br>### Stack I actually use<br><br>`Python` `FastAPI` `Django` `Django REST Framework` `PostgreSQL` `SQLAlchemy` `React` `JWT Auth` `Alembic`<br><br>### Projects<br><br>Job Application Tracker<br>Full-stack app (Django + DRF + React), custom user model, JWT auth with token blacklisting, full CRUD with user isolation, dashboard stats. Deployed on Render + Vercel.<br>Backend: https://github.com/ranju024/job-tracker-api<br>Frontend: https://github.com/ranju024/job-tracker-client<br><br>Dear-Memory (backend)<br>FastAPI backend for a digital photo-sharing platform. 31 tested endpoints, PostgreSQL, running locally with full auth and CRUD flows.<br>https://github.com/ranju024/Dear-Memory/tree/backend-feature/backend<br><br>Expense Tracker API<br>First real backend project. FastAPI, PostgreSQL, SQLAlchemy, Pydantic, JWT, Alembic migrations.<br>https://github.com/ranju024/expense_tracker<br><br>### Currently working on<br><br>E-governance appointment system and a college management platform (timetable scheduler, AI enquiry bot, feedback system) as coursework, alongside job applications.<br><br>### Reach me<br><br>[LinkedIn](https://www.linkedin.com/in/ranju-sharma/) · sharmaranju684@gmail.com
+# 👋 About Me
 
+🔧 Backend engineer in the making — Python, FastAPI, Django
+🎓 CSIT student building real backend systems
+🎯 Currently job hunting for junior backend / full-stack roles
+
+### 🚀 Projects
+
+**Job Application Tracker** — full-stack app (Django + DRF + React), JWT auth with token blacklisting, full CRUD with user isolation, dashboard stats. Deployed on Render + Vercel.
+🔗 [Backend](https://github.com/ranju024/job-tracker-api) · [Frontend](https://github.com/ranju024/job-tracker-client)
+
+**Dear-Memory (backend)** — FastAPI backend for a digital photo-sharing platform. 31 tested endpoints, PostgreSQL.
+🔗 [Repo](https://github.com/ranju024/Dear-Memory/tree/backend-feature/backend)
+
+**Expense Tracker API** — first real backend project. FastAPI, PostgreSQL, SQLAlchemy, JWT, Alembic.
+🔗 [Repo](https://github.com/ranju024/expense_tracker)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/A6fgWD34K) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ranju997460) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranju-sharma) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ranju_sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaranju684@gmail.com) 
