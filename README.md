@@ -10,24 +10,19 @@
 
 ### 🚀 About Me
 
-Backend developer working in Python, FastAPI, and Django. Building and shipping full projects with auth, databases, and deployment. Open to junior backend or full-stack roles.
+Heyy, I am a backend developer working in Python, FastAPI, and Django. Building and shipping full projects with auth, databases, and deployment. I am currently open to junior backend or full-stack roles.
 <li>&nbsp;I'm currently working on a waste management system, and a quiz platform using Django and DRF </li>
- <li>&nbsp;I'm currently learning async FastAPI patterns, Docker, etc.  </li>
- <li>&nbsp;I'm looking to collaborate on backend projects using FastAPI or Django  </li>
- <li>&nbsp;Ask me about Python, Django, DjangoRestFramework, FastAPI, REST APIs, PostgreSQL </li>
- <li>&nbsp;Pronouns: she/her </li> 
- <li>&nbsp;Fun fact: There's no place like 127.0.0.1 👻</li>
+ <li>&nbsp;and I am currently learning async FastAPI patterns, Docker, etc.  </li>
+ <li>&nbsp;You can talk with me about Python, Django, DjangoRestFramework, FastAPI, REST APIs, PostgreSQL </li>
 
 ### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -64,4 +59,5 @@ Backend developer working in Python, FastAPI, and Django. Building and shipping 
 </p>
 
 ---
+<li>&nbsp;Fun fact: There's no place like 127.0.0.1 👻</li>
 <p align="center"><i>⭐️ From <a href="https://github.com/ranju024">ranju024</a></i></p>
