@@ -11,13 +11,12 @@
 ### 🚀 About Me
 
 Backend developer working in Python, FastAPI, and Django. Building and shipping full projects with auth, databases, and deployment. Open to junior backend or full-stack roles.
-<li>
- &nbsp;I'm currently working on **a waste management system, and a quiz platform**  </li>
- <li>&nbsp;I'm currently learning **async FastAPI patterns, Docker, etc.**  </li>
- <li>&nbsp;I'm looking to collaborate on **backend projects using FastAPI or Django**  </li>
- <li>&nbsp;Ask me about **Python, Django, DjangoRestFramework, FastAPI, REST APIs, PostgreSQL**  </li>
- <li>&nbsp;Pronouns: **she/her** </li> 
- <li>&nbsp;Fun fact: **There's no place like 127.0.0.1 👻**</li>
+<li>&nbsp;I'm currently working on a waste management system, and a quiz platform using Django and DRF </li>
+ <li>&nbsp;I'm currently learning async FastAPI patterns, Docker, etc.  </li>
+ <li>&nbsp;I'm looking to collaborate on backend projects using FastAPI or Django  </li>
+ <li>&nbsp;Ask me about Python, Django, DjangoRestFramework, FastAPI, REST APIs, PostgreSQL </li>
+ <li>&nbsp;Pronouns: she/her </li> 
+ <li>&nbsp;Fun fact: There's no place like 127.0.0.1 👻</li>
 
 ### 🛠️ Tech Stack
 
